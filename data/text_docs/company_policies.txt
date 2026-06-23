@@ -1,0 +1,10 @@
+
+Company Policies
+
+Passwords must be changed every 90 days.
+
+VPN access is mandatory.
+
+Multi-factor authentication is required.
+
+Confidential data should not be shared externally.

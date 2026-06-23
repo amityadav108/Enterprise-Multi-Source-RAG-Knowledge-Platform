@@ -1,0 +1,10 @@
+
+Cloud Migration Guide
+
+AWS is the primary cloud platform.
+
+Kubernetes is used for deployment.
+
+GitHub Actions manages CI/CD.
+
+Prometheus and Grafana are used for monitoring.
