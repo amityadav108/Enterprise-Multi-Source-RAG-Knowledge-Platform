@@ -1,0 +1,4 @@
+id,timestamp,question,answer,source
+1,2026-06-23 10:31:04,How many leave days are allowed?,Employees receive 20 annual leave days.,employee_handbook.txt
+2,2026-06-23 10:31:27,Who works in ML Engineering?,Bob works in ML Engineering.,employees.csv
+3,2026-06-23 10:31:27,What monitoring tools are used?,Prometheus and Grafana,cloud_migration_guide.txt

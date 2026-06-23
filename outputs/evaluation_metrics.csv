@@ -1,0 +1,6 @@
+question,expected_source,retrieved_sources,precision@3,recall@3
+How many leave days are allowed?,employee_handbook.txt,"['employee_handbook.txt', 'company_policies.txt', 'cloud_migration_guide.txt']",0.3333333333333333,1
+What monitoring tools are used?,cloud_migration_guide.txt,"['cloud_migration_guide.txt', 'employee_handbook.txt', 'company_policies.txt']",0.3333333333333333,1
+Who works in ML Engineering?,employees.csv,"['employees.csv', 'support_tickets.csv', 'cloud_migration_guide.txt']",0.3333333333333333,1
+Which cloud platform is used?,cloud_migration_guide.txt,"['cloud_migration_guide.txt', 'company_policies.txt', 'employees.csv']",0.3333333333333333,1
+How often should passwords be changed?,company_policies.txt,"['company_policies.txt', 'cloud_migration_guide.txt', 'employee_handbook.txt']",0.3333333333333333,1
